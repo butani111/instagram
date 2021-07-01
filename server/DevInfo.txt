@@ -1,0 +1,11 @@
+------------- packages to install ----------------
+
+express
+mongoose
+bcryptjs
+jsonwebtoken      ---   https://www.npmjs.com/package/jsonwebtoken
+
+npm install cors   --- allow request to another port (E.g. 3000 to 5000 port)
+
+coudinary --- store images
+

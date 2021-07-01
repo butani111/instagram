@@ -1,0 +1,8 @@
+
+
+npm create-react-app <APP_NAME>
+npm install react-router-dom
+
+Materialize library
+
+npm install materialize-css@next  --- css/js
