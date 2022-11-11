@@ -12,3 +12,8 @@ Home page and Profile page :
 
 <!-- ![Screenshot (44)](https://user-images.githubusercontent.com/79257444/124107082-7fd1ed80-da82-11eb-8aaa-4d38fcc7f838.png)
 ![Screenshot (45)](https://user-images.githubusercontent.com/79257444/124107094-82344780-da82-11eb-8dfd-de62fa5bf5cc.png) -->
+
+
+Login credentials for testing purpose : <br />
+    &emsp; email : haha@haha.com <br />
+    &emsp; pass  : haha123
