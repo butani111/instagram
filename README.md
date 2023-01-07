@@ -17,3 +17,8 @@ Home page and Profile page :
 Login credentials for testing purpose : <br />
     &emsp; email : haha@haha.com <br />
     &emsp; pass  : haha123
+
+
+## Technologies Used
+HTML | CSS | Javascript | ReactJS | Node.js | Express.js | MongoDB | Material UI | jsonwebtoken
+#
